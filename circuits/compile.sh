@@ -17,6 +17,6 @@ pht_nuke.S \
 -fno-schedule-insns -fno-schedule-insns2 \
 -fno-combine-stack-adjustments \
 -fno-sched-spec \
-# -DGATES_STATS
+-DGATES_STATS
 #-fsanitize=address
 
